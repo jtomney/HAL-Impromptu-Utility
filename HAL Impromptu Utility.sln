@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HAL Impromptu Utility", "HAL Impromptu Utility.csproj", "{58365F53-21D4-4672-BCE9-2445BB5A2724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58365F53-21D4-4672-BCE9-2445BB5A2724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58365F53-21D4-4672-BCE9-2445BB5A2724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58365F53-21D4-4672-BCE9-2445BB5A2724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58365F53-21D4-4672-BCE9-2445BB5A2724}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DBAA4C9-C95E-4F21-9CD8-7D151DFEEF5D}
+	EndGlobalSection
+EndGlobal
